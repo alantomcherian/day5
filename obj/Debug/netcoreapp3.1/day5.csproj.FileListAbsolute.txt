@@ -1,0 +1,13 @@
+D:\csharp\day5\bin\Debug\netcoreapp3.1\day5.exe
+D:\csharp\day5\bin\Debug\netcoreapp3.1\day5.deps.json
+D:\csharp\day5\bin\Debug\netcoreapp3.1\day5.runtimeconfig.json
+D:\csharp\day5\bin\Debug\netcoreapp3.1\day5.runtimeconfig.dev.json
+D:\csharp\day5\bin\Debug\netcoreapp3.1\day5.dll
+D:\csharp\day5\bin\Debug\netcoreapp3.1\day5.pdb
+D:\csharp\day5\obj\Debug\netcoreapp3.1\day5.csproj.AssemblyReference.cache
+D:\csharp\day5\obj\Debug\netcoreapp3.1\day5.AssemblyInfoInputs.cache
+D:\csharp\day5\obj\Debug\netcoreapp3.1\day5.AssemblyInfo.cs
+D:\csharp\day5\obj\Debug\netcoreapp3.1\day5.csproj.CoreCompileInputs.cache
+D:\csharp\day5\obj\Debug\netcoreapp3.1\day5.dll
+D:\csharp\day5\obj\Debug\netcoreapp3.1\day5.pdb
+D:\csharp\day5\obj\Debug\netcoreapp3.1\day5.genruntimeconfig.cache
